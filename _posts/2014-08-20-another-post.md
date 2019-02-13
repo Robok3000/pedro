@@ -1,8 +1,8 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: Expositor en seminario Memeland
 featured: /assets/images/pic02.jpg
 layout: post
 ---
 
-<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Participé como expositor en el seminario de cultura digital #Memeland organizado por el Campus Creativo de la Universidad Andrés Bello</p>
+<p>La exposición se centró en el significado del termino "Memes", sus caracteristicas y su importancia en la cultura chilena.</p>

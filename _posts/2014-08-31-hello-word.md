@@ -1,8 +1,8 @@
 ---
-title: Ullamco Laboris minim veniam
+title: Participación en el proyecto radial de MilM2
 featured: /assets/images/pic03.jpg
 layout: post
 ---
 
-<p>Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Fui parte del staff de encargados de dar vida a la radio On Line de colectivo cultural de MilM2</p>
+<p>Realicé una aseoría técnica para la implementación de la radio y para su transmisión en internet.</p>
