@@ -1,6 +1,6 @@
 ---
-title: Expositor en seminario Memeland
-featured: /assets/images/pic02.jpg
+title: El poder de los Influenciadores
+featured: /assets/images/pics22.jpg
 layout: post
 ---
 
